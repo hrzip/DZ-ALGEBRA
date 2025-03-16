@@ -1,6 +1,6 @@
 naziv_filma = input('Upišite naziv filma :')
-godina_filma = int(input('Upišite godinu izlaska filma :'))
-ocjena_filma = float(input('Upišite ocjenu filma :'))
+godina_filma = (input('Upišite godinu izlaska filma :'))
+ocjena_filma = (input('Upišite ocjenu filma :'))
 opis_filma = input('Upišite opis filma :')
 
 print('Naziv filma je :', naziv_filma)

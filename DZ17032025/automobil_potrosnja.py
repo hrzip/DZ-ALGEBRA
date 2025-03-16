@@ -4,7 +4,7 @@ cijena_po_litri = float(input('Kolika je cijena benzina po litri ? '))
 
 
 udaljenost_u_oba_smjera = float(input('kolika je udaljenost u oba smjera ukupno ? '))
-BROJ_DANA_U_MJESECU = int(input('Za koliko dana u mjesecu želite izračunati ? '))
+BROJ_DANA_U_MJESECU = 30
 
 
 trosak_po_km = (potrosnja_na_100km / 100) * cijena_po_litri
