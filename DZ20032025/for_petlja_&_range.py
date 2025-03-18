@@ -63,3 +63,6 @@ for i in range(visina):
 
 razmak_debla = visina // 2 - 1  #ovdje sam podijelio što je upisano za visinu i samo još -1 jer inače se ne bi deblo micalo skupa sa borom nego bi ostalo lijevo
 print(" " * razmak_debla + "|||")
+
+
+print('\n')
