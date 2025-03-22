@@ -67,6 +67,7 @@ while broj < 50:
 print('\n')
 
 # Ispisite sve troznamenkaste brojeve ciji je zbroj znamenaka veci od 10 koristeci se petljom while (Koristiti se % modulo operacijom)
+# Za ovo sam morao malo istraživati jer nisam razumio pisani zadatak.
 broj = 100
 while broj < 1000:
     jedinice = broj % 10
