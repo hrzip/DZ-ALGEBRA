@@ -79,3 +79,4 @@ while broj < 1000:
         print(f"{broj} (zbroj znamenaka: {zbroj_znamenaka})")
     broj += 1
     
+    
