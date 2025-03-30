@@ -1,0 +1,1 @@
+# Napravite dvije liste s naslovima filmova i njihovim godinama izlaska. Zatim spojite te dvije liste u jednu listu tako da svaki element bude niz koji sadrži naziv filma i godinu izlaska

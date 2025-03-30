@@ -1,0 +1,1 @@
+# Napravite listu koja sadrži pet filmova koji su osvojili nagradu Oscar za najbolji film. Zatim napravite drugu listu koja sadrži sve glavne glumce koji su glumili u tim filmovima.

@@ -1,0 +1,1 @@
+# Napravite listu koja sadrža nekoliko filmskih redatelja. Zatim napravite pet listi, pri čemu svaka lista sadrži pet filmova koje je režirao jedan od redatelja iz prve liste.
